@@ -47,9 +47,7 @@ gem "hello gemini."
 ```
 ## Ouptut
 
-```bash
-Hello! How can I help you today?
-```
+![can't display screenshot](https://github.com/Shobhit043/Gemini_in_terminal/blob/main/Screenshot_2025-05-25_00-38-33.png)<br>
 
 ## Dependencies
 
