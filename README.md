@@ -17,6 +17,7 @@ Before using the script, make sure you have:
 ```bash
 api_key="YOUR_ACTUAL_API_KEY"
 ```
+(You can create your gemini API key in the Google Studio)
 
 2. Make the script executable:
 
